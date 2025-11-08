@@ -1,0 +1,26 @@
+{
+  "6168133959": {
+    "id": 1,
+    "tg_id": 6168133959,
+    "first_name": "s",
+    "last_name": "s",
+    "phone": "+998917721737",
+    "registered": true,
+    "created_at": "2025-10-29T10:05:29",
+    "cart": [],
+    "disliked": [],
+    "lang": "uz"
+  },
+  "353336422": {
+    "id": 2,
+    "tg_id": 353336422,
+    "first_name": "ghjb",
+    "last_name": "hbjn",
+    "phone": "+998 90 123 45 67",
+    "registered": true,
+    "created_at": "2025-10-31T14:33:00",
+    "cart": [],
+    "disliked": [],
+    "lang": "uz"
+  }
+}

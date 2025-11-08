@@ -1,0 +1,16 @@
+job_id,name,company,location,skills,description_html,link
+1,Data Scientist,BI-Group,"Uzbekistan, Tashkent","Python;SQL;Power BI;Excel","<p><strong>Looking to take your first serious step?</strong></p><p>Work on production data pipelines...</p>",https://uz.linkedin.com/jobs/view/123
+2,BI Analyst,MAAB Innovation,"Uzbekistan, Tashkent","Power BI;SQL;ETL","<p>Build dashboards and KPIs.</p>",https://uz.linkedin.com/jobs/view/456
+3,Python Developer,Tech Co,"Remote","Python;AsyncIO;APIs","<p>Backend services with FastAPI.</p>",https://example.com/job/789
+4,Data Scientist,BI-Group,"Uzbekistan, Tashkent","Python;SQL;Power BI;Excel","<p><strong>Looking to take your first serious step?</strong></p><p>Work on production data pipelines...</p>",https://uz.linkedin.com/jobs/view/123
+5,BI Analyst,MAAB Innovation,"Uzbekistan, Tashkent","Power BI;SQL;ETL","<p>Build dashboards and KPIs.</p>",https://uz.linkedin.com/jobs/view/456
+6,Python Developer,Tech Co,"Remote","Python;AsyncIO;APIs","<p>Backend services with FastAPI.</p>",https://example.com/job/789
+8,Data Scientist,BI-Group,"Uzbekistan, Tashkent","Python;SQL;Power BI;Excel","<p><strong>Looking to take your first serious step?</strong></p><p>Work on production data pipelines...</p>",https://uz.linkedin.com/jobs/view/123
+9,BI Analyst,MAAB Innovation,"Uzbekistan, Tashkent","Power BI;SQL;ETL","<p>Build dashboards and KPIs.</p>",https://uz.linkedin.com/jobs/view/456
+10,Python Developer,Tech Co,"Remote","Python;AsyncIO;APIs","<p>Backend services with FastAPI.</p>",https://example.com/job/789
+11,Data Scientist,BI-Group,"Uzbekistan, Tashkent","Python;SQL;Power BI;Excel","<p><strong>Looking to take your first serious step?</strong></p><p>Work on production data pipelines...</p>",https://uz.linkedin.com/jobs/view/123
+12,BI Analyst,MAAB Innovation,"Uzbekistan, Tashkent","Power BI;SQL;ETL","<p>Build dashboards and KPIs.</p>",https://uz.linkedin.com/jobs/view/456
+13,Python Developer,Tech Co,"Remote","Python;AsyncIO;APIs","<p>Backend services with FastAPI.</p>",https://example.com/job/789
+14,Data Scientist,BI-Group,"Uzbekistan, Tashkent","Python;SQL;Power BI;Excel","<p><strong>Looking to take your first serious step?</strong></p><p>Work on production data pipelines...</p>",https://uz.linkedin.com/jobs/view/123
+15,BI Analyst,MAAB Innovation,"Uzbekistan, Tashkent","Power BI;SQL;ETL","<p>Build dashboards and KPIs.</p>",https://uz.linkedin.com/jobs/view/456
+16,Python Developer,Tech Co,"Remote","Python;AsyncIO;APIs","<p>Backend services with FastAPI.</p>",https://example.com/job/789
